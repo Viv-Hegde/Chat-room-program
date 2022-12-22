@@ -1,4 +1,4 @@
-# Multiple-Client-Server-Chat-Program
+# Chat Room Program
 This is an entertainment track hackathon project that mimics the basic functionality of a chat application like send and receive messages.
 
 Back end uses socket programming to connect the clients to a server to establish communication
